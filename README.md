@@ -1,7 +1,6 @@
-# flutter_unity_widget
+# flutter_unity_widget template app. source code positioned under ./example/
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
-[![version][version-badge]][package]
 [![MIT License][license-badge]][license]
 [![PRs Welcome][prs-badge]](https://makeapullrequest.com)
 
@@ -35,7 +34,7 @@ import 'package:flutter_unity_widget/flutter_unity_widget.dart';
 
 ## Preview
 
-30 fps gifs, showcasing communication between Flutter and Unity:
+30 fps gifs, showcasing communication between Flutter and Unity (green arrow) tested on my iOS device:
 
 ![gif](https://github.com/CharlesXu1124/Supply-Angel/blob/main/files/unity-flutter.gif?raw=true)
 
