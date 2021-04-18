@@ -38,7 +38,6 @@ import 'package:flutter_unity_widget/flutter_unity_widget.dart';
 30 fps gifs, showcasing communication between Flutter and Unity:
 
 ![gif](https://github.com/juicycleff/flutter-unity-view-widget/blob/master/files/preview_android.gif?raw=true)
-![gif](https://github.com/juicycleff/flutter-unity-view-widget/blob/master/files/preview_ios.gif?raw=true)
 
 <br />
 
