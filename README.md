@@ -1,13 +1,4 @@
 # flutter_unity_widget template app. source code positioned under ./example/
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-
-[![MIT License][license-badge]][license]
-[![PRs Welcome][prs-badge]](https://makeapullrequest.com)
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-
-[![Gitter](https://badges.gitter.im/flutter-unity/community.svg)](https://gitter.im/flutter-unity/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Flutter unity 3D widget for embedding unity in flutter. Now you can make awesome gamified features of your app in Unity and get it rendered in a Flutter app both in fullscreen and embeddable mode. Works great on Android, iPad OS and iOS. There are now two unity app examples in the unity folder, one with the default scene and another based on Unity AR foundation samples.
 <br />
